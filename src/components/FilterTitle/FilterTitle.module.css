@@ -1,0 +1,16 @@
+.filter__title
+{
+    margin: 3.5rem 0 1.4rem;
+    font-size: 1.4rem;
+    font-weight: 500;
+    color: #5e5873;
+    text-transform: capitalize;
+}
+.filter__title.first
+{
+    margin-top: 0;
+}
+.dark
+{
+    color: #d0d2d6;
+}
